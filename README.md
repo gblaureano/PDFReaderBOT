@@ -32,4 +32,5 @@ pip install -r requirements.txt
 ## 5. Deactivate the virtual environment (optional)
 ```bash
 deactivate
+# Will close the BOT process
 ```
